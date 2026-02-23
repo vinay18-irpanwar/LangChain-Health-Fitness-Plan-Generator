@@ -1,4 +1,6 @@
-🧠 AI Personal Health Planner
+import pypandoc
+
+readme = """🧠 AI Personal Health Planner
 An intelligent web application that generates personalized meal plans, workout routines, and weekly health schedules using LangChain + Google Gemini AI + Streamlit.
 
 Designed for fitness enthusiasts, students, and developers who want a smart AI-powered health planning assistant.
